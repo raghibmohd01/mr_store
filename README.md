@@ -1,6 +1,6 @@
 # mr_store
 
-A new Flutter project.
+Application for  e comm services.
 
 ## Getting Started
 
